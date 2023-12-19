@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "gestion-employes-chaine",
+			"path": "../../../gestion-employes-chaine"
+		},
+		{
+			"name": "Bank-master",
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
